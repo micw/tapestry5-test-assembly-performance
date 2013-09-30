@@ -1,0 +1,16 @@
+<t:container
+	xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+    xmlns:p="tapestry:parameter"
+    >
+    
+    <div class="combined4">
+    	Combined4
+    	<t:simplec4/>
+    	<t:simplec5/>
+    	<t:simplec1/>
+    	<t:simplec2/>
+    	<t:simplec3/>
+    	<br clear="all" />
+    </div>
+    
+</t:container>

@@ -1,0 +1,16 @@
+<t:container
+	xmlns:t="http://tapestry.apache.org/schema/tapestry_5_1_0.xsd"
+    xmlns:p="tapestry:parameter"
+    >
+    
+    <div class="block3">
+    	Block3
+    	<t:block2/>
+    	<t:block2/>
+    	<t:block2/>
+    	<t:block2/>
+    	<t:block2/>
+    	<br clear="all" />
+    </div>
+    
+</t:container>
